@@ -158,9 +158,7 @@ export function Header() {
               <Link to="/services" className="block px-4 py-3 rounded-xl hover:bg-blue-500/10 transition-colors">
                 Services
               </Link>
-              <Link to="/portfolio" className="block px-4 py-3 rounded-xl hover:bg-blue-500/10 transition-colors">
-                Portfolio
-              </Link>
+             
               <Link to="/contact" className="block px-4 py-3 rounded-xl hover:bg-blue-500/10 transition-colors">
                 Contact
               </Link>
