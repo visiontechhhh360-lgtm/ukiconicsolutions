@@ -42,7 +42,7 @@ export function Home() {
     {
       icon: Award,
       title: "Proven Track Record",
-      description: "Join hundreds of satisfied clients who have transformed their businesses with our innovative IT solutions. Our portfolio includes successful projects across various industries and company sizes."
+      description: "Join hundreds of satisfied clients who have transformed their businesses with our innovative IT solutions. Our portfolio includes successful projects across various industries."
     }
   ];
 
